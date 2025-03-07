@@ -11,7 +11,7 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-Detailed 5-Point Idea for Web-Based Selector-Applicant Simulation Software
+
 
 Virtual Interview Experience:
 
